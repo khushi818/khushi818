@@ -10,7 +10,7 @@
 -  **Learning :** Front-end developer | Open-Source :fire:	
 -  **Languages :** Javascript , ReactJs , Python 
 -  **Hobbies :** Art & Music  :headphones:
--  **Fact :** First solve the problem, then write the code :heart: 
+-  **Fact :** I believe in clean coding :heart: 
 -  **Organization :** 
 
 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
