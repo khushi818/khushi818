@@ -11,7 +11,7 @@
 -  **Languages :** Javascript , ReactJs , Python 
 -  **Hobbies :** Art & Music  :headphones:
 -  **Fact :** I believe in clean coding :heart: 
--  **Organization :** 
+-  **Organization : DVS Tech Labs , Eddihub ** 
 
 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
