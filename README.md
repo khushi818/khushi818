@@ -6,7 +6,7 @@
 ### About
 
 -  **Learning :** Front-end developer | Open-Source :fire:	
--  **Languages :** Javascript , ReactJs , Python 
+-  **Tools :** Javascript , ReactJs , Python,vite,tailwind,Django 
 -  **Hobbies :** love to explore creative and unique things 
 -  **Fact :** I believe in clean coding :heart: 
 -  **Organization :** DVS Tech Labs , Eddihub  
