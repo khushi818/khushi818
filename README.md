@@ -6,10 +6,10 @@
 ### About
 
 -  **Learning :** Front-end developer | Open-Source :fire:	
--  **Tools :** JavaScript , React , Tailwind , learning Django 
+-  **Tools :** Html, Css , JavaScript , React , Tailwind ,learning Django 
 -  **Hobbies :** love to explore creative and unique things 
 -  **Fact :** I believe in clean coding :heart: 
--  **Organization :** Eddihub  
+-  **Open source contribution:** realdevsquad
 
 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
