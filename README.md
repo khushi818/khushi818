@@ -9,7 +9,7 @@
 -  **Tools :** Html, Css , JavaScript , React , Tailwind ,learning Django 
 -  **Hobbies :** love to explore creative and unique things 
 -  **Fact :** I believe in clean coding :heart: 
--  **Open source contribution:** realdevsquad, Bytemakers , eddihub
+-  **Open source contribution:** realdevsquad, Bytemakers
 
 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
