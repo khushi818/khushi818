@@ -3,6 +3,6 @@
 
 - 💬 Ask me about **MERN STACK DEVELOPMENT**
 
-- 📫 How to reach me **khushijoy61@gmail.com**
+- 📫 How to reach me **khushishukla051@gmail.com**
 
 
