@@ -29,8 +29,19 @@
 
 ### 💡 Tech Stack  
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,nodejs,express,mongodb,git,github,vscode,figma&perline=7" />
+
+  <!-- Frontend -->
+  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react&theme=light" />
+
+  <!-- Backend -->
+  <img src="https://skillicons.dev/icons?i=nodejs,nestjs,express,mongodb,mysql&theme=light" />
+
+  <!-- Tools -->
+  <img src="https://skillicons.dev/icons?i=python,docker,cloudflare,git,github,vscode&theme=light" />
+
 </p>
+
+
 
 ---
 
