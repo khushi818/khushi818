@@ -1,5 +1,4 @@
 <h1 align="center">✨ Hi, I'm Khushi Shukla ✨</h1>
-<h3 align="center">A passionate Full-Stack Developer</h3>
 
 <p align="center">
   <a href="https://khushi-portfolio-2025.vercel.app/">
@@ -14,7 +13,7 @@
 
 ### 🚀 About Me  
 - 💻 I love building full-stack applications using the **MERN stack**  
-- 💬 Ask me about **JavaScript, React, Node.js, MongoDB**  
+- 💬 Ask me about **JavaScript, Python**  
 - 📫 Reach me at **khushishukla051@gmail.com**
 
 ---
