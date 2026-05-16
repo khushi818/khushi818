@@ -1,7 +1,7 @@
 <h1 align="center">✨ Hi, I'm Khushi Shukla ✨</h1>
 
 <p align="center">
-  <a href="https://khushi-portfolio-2025.vercel.app/">
+  <a href="https://khushi-shukla.vercel.app/">
     <img src="https://img.shields.io/badge/Portfolio-Live%20Site-blue?style=for-the-badge" alt="Portfolio Badge"/>
   </a>
   <a href="https://github.com/khushi818">
@@ -12,10 +12,7 @@
 ---
 
 ### 🚀 About Me  
-- 💻 I love building full-stack applications using the **MERN stack**  
-- 💬 Ask me about **JavaScript, Python**  
-- 📫 Reach me at **khushishukla051@gmail.com**
-
+- 💻 I am a developer and building product 
 ---
 
 ### 📊 GitHub Streak  
